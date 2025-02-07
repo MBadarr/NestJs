@@ -14,6 +14,4 @@ export class AppController {
   getPro(): string {
     return this.appService.getHello();
   }
-
-
 }
